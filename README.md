@@ -11,6 +11,7 @@ We use the **Vehicle Detection** dataset from Roboflow for training the YOLOv8 m
 ## Demo Video  
 Below is a demonstration of the vehicle detection and tracking process using our trained YOLOv8 model.  
 
-<video src="test_video_counted.mp4" controls width="600">
-Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="test_video_counted.gif" alt="Vehicle Detection Demo" width="700">
+</p>
+
